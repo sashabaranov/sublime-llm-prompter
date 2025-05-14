@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "LLM Prompt: Generate from Selection",
+        "command": "generate_llm_prompt"
+    },
+    {
+        "caption": "LLM Prompt: Remove File Block Under Cursor",
+        "command": "remove_llm_file_block"
+    },
+    {
+        "caption": "LLM Prompt: Add Selection to Existing Prompt",
+        "command": "add_selection_to_prompt"
+    }
+]
